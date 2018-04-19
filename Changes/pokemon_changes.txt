@@ -1,11 +1,42 @@
 =begin
 Changes made:
-Leafeon learns Razorleaf at lvl 0 (on evolution) instead of at lvl 9.
-etc. finish this plox sir mets
+Leafeon learns Razorleaf at lvl 0 (on evolution) instead of at lvl 9, at which he learns cut. Leafeon learns slash at level 25 instead of giga drain.
+Leafeon new ability: Cutting edge/sharp edge, boosts x1.2: cut, slash, razor leaf, leaf blade, fury cutter, x-scissor, aireal ace.
+
+
 
 =end
 
 # Belongs in pokemon.txt:
+
+[136]
+Name=Flareon
+InternalName=FLAREON
+Type1=FIRE
+BaseStats=65,130,60,65,95,110
+GenderRate=FemaleOneEighth
+GrowthRate=Medium
+BaseEXP=184
+EffortPoints=0,2,0,0,0,0
+Rareness=45
+Happiness=70
+Abilities=FLASHFIRE
+HiddenAbility=GUTS
+Moves=1,HELPINGHAND,1,TACKLE,1,TAILWHIP,5,SANDATTACK,9,EMBER,13,QUICKATTACK,17,BITE,21,FIREFANG,25,FIRESPIN,29,SCARYFACE,33,SMOG,37,LAVAPLUME,41,LASTRESORT,45,FIREBLAST
+Compatibility=Field
+StepsToHatch=9180
+Height=0.9
+Weight=25.0
+Color=Red
+Shape=8
+Habitat=Urban
+RegionalNumbers=136,187
+Kind=Flame
+Pokedex=Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.
+BattlerPlayerY=0
+BattlerEnemyY=18
+BattlerAltitude=0
+Evolutions=
 
 [470]
 Name=Leafeon
@@ -20,7 +51,7 @@ Rareness=45
 Happiness=35
 Abilities=LEAFGUARD
 HiddenAbility=CHLOROPHYLL
-Moves=0,RAZORLEAF,1,HELPINGHAND,1,TACKLE,1,TAILWHIP,5,SANDATTACK,13,QUICKATTACK,17,GRASSWHISTLE,21,MAGICALLEAF,25,GIGADRAIN,29,SWORDSDANCE,33,SYNTHESIS,37,SUNNYDAY,41,LASTRESORT,45,LEAFBLADE
+Moves=0,RAZORLEAF,1,HELPINGHAND,1,TACKLE,1,TAILWHIP,5,SANDATTACK,9,CUT,13,QUICKATTACK,17,GRASSWHISTLE,21,MAGICALLEAF,25,SLASH,29,SWORDSDANCE,33,SYNTHESIS,37,SUNNYDAY,41,LASTRESORT,45,LEAFBLADE
 Compatibility=Field
 StepsToHatch=9180
 Height=1.0
