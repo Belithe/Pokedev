@@ -1,0 +1,37 @@
+Route 1:
+U-shaped route with a river running through the left vertical path. Bridges used to cross different parts of the river.
+
+Wild pokemon:
+- Bidoof
+- Spearow
+- Psyduck
+- Poliwag (water)
+- Surskit (water)
+- Mankey
+
+Town 2:
+Small town with pokecentre and mart, with a road leading from route 1 (east) to route 2 (west).
+
+Route 2:
+Short route giving acess to a tunnel, with a few rocks.
+
+Wild pokemon:
+- Machop
+- Spearow
+- Mankey
+- Spoink
+
+Tunnel:
+A straight path leading from east to west, connecting route 2 to route 3.
+
+Wild pokemon:
+- Graaflet
+- Nincada
+- Geodude
+- Machop
+
+Route 3:
+A rugged mountain pass connecting the tunnel with town 3.
+
+Wild pokemon:
+- 
